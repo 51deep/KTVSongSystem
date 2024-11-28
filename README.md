@@ -15,11 +15,11 @@ KTV点歌系统：用户管理、歌曲库管理、歌曲类型管理、点歌�
 
 
 ## 运行截图
-![](img/001.jpg)
-![](img/002.jpg)
-![](img/003.jpg)
-![](img/004.jpg)
-![](img/005.jpg)
-![](img/006.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/KTVSongSystem/img/001.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/KTVSongSystem/img/002.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/KTVSongSystem/img/003.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/KTVSongSystem/img/004.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/KTVSongSystem/img/005.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/KTVSongSystem/img/006.jpg)
 
 <p>本代码来源于网络,仅供学习参考使用!</p>
